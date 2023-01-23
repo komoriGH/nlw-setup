@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app desenvolvido com o intuito de ajudar você a registrar seus hábitos e atividades do cotidiano.
 
-- [Visite o projeto online](komoriGH.github.io/nlw-setup)
+- [Visite o projeto online](https://komoriGH.github.io/nlw-setup)
 
 ## 🔖 Layout
 
